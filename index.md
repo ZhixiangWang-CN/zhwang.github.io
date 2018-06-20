@@ -1,5 +1,5 @@
 # Zhixiang Wang  
-                                                          ![]()
+                                                          ![](./护照照片.jpg)
 
 ## PERSONAL INFORMATION:
 
