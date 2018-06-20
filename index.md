@@ -1,6 +1,6 @@
 # Zhixiang Wang 
 
-![img{100*100}](./护照照片.jpg )
+![](./缩小后护照照片.jpg )
 
 ## PERSONAL INFORMATION:
 
