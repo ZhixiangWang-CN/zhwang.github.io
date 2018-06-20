@@ -17,11 +17,11 @@ Tel:+49 15257059271
 
 ### September 2012~2016.7   Bachelor
               Dept. of  Optoelectronics
-School of  Chongqing university of posts and telecommunications. 
+    School of  Chongqing university of posts and telecommunications. 
 
 ### September 2017~now    pursuing master 
               Dept. of computer science and Technology,
-School of  Chongqing university of posts and telecommunications. 
+    School of  Chongqing university of posts and telecommunications. 
 
 ###  RESEARCH SCOPE:Deep Learning&Image Identification
 
