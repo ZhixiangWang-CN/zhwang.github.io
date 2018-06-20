@@ -25,56 +25,59 @@ School of  Chongqing university of posts and telecommunications.
 
 ###  RESEARCH SCOPE:Deep Learning&Image Identification
 
+
 ## EXPERIENCES:
+
 
 ### 2013.9-2014.6 :Near-Infrared Quantum Cutting in Yb3+ Doped SrMoO4 Phosphors 
 
-researcher
+    researcher
 
-Under the guidance of the teacher research on luminescent materials, and publish an article  in SCI .
+    Under the guidance of the teacher research on luminescent materials, and publish an article  in SCI .
 
 ### 2015.9~2016.6 Chaos circuit simulation design
 
-The design and Simulation of the circuit for the chaotic equation,and write a paper A Modified Fractional Chaos Circuit Simulation and Design,fill the domestic gaps in the field,and won the frist price of  National College Students Physics Competition .
+    The design and Simulation of the circuit for the chaotic equation,and write a paper A Modified Fractional Chaos Circuit Simulation  and Design,fill the domestic gaps in the field,and won the frist price of  National College Students Physics Competition .
 
 ### 2016.8-2017.3 China Unicom website Development
 
-Company: China Unicom 
+    Company: China Unicom 
 
-Participate in development the website of the China Unicom using HTML5 and CSS3 for three month. 
+    Participate in development the website of the China Unicom using HTML5 and CSS3 for three month. 
 
 ## HONORS AND AWARDS:
 
-Second scholarship
+    Second scholarship
 
-School Science and Culture Festival first prize
+    School Science and Culture Festival first prize
 
-Spiritual civilization advanced individual
+    Spiritual civilization advanced individual
 
 
 
 ## Major curriculum :
-Linear Algebra and Analytic Geometry
 
-Mathematical analysis
+    Linear Algebra and Analytic Geometry
 
-Mathematical physics method
+    Mathematical analysis
 
-Microcomputer principle and interface technology
+    Mathematical physics method
 
-Probability theory and mathematical statistics
+    Microcomputer principle and interface technology
 
-Graph Theory and Applications
+    Probability theory and mathematical statistics
 
-Advanced Architecture of Computer Network
+    Graph Theory and Applications
 
-Object Oriented Methodology
+    Advanced Architecture of Computer Network
 
-Advanced Architecture of Computer
+    Object Oriented Methodology
 
-Computer Vision
+    Advanced Architecture of Computer
 
-Artificial Intelligence with Uncertainty
+    Computer Vision
 
-Algorithm Analysis and Design
+    Artificial Intelligence with Uncertainty
+
+    Algorithm Analysis and Design
 
