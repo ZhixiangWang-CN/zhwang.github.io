@@ -1,6 +1,6 @@
 # Zhixiang Wang 
 
-![img-w150](./护照照片.jpg )
+![img-w10](./护照照片.jpg )
 
 ## PERSONAL INFORMATION:
 
