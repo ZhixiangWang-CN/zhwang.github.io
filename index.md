@@ -1,13 +1,6 @@
-# Zhixiang Wang  
-.pro-img1{
-    width: 50%;
-    height: 100%;
-    margin-left: 120px;
-    border-radius: 10px 10px;
-    background: url(.护照照片.jog) no-repeat center;
-    background-size: 50% 60%;
-}
+# Zhixiang Wang 
 
+![](./护照照片.jpg =300x400)
 
 ## PERSONAL INFORMATION:
 
