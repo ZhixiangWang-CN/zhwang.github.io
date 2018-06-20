@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Zhixiang Wang  
+
+
+##PERSONAL INFORMATION:
+
+Date of Birth: 14.09.1993
+
+Gender: Male
+
+Email: 654053334@qq.com
+
+Tel:+49 15257059271
+
+
 
 You can use the [editor on GitHub](https://github.com/greenfishflying/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
