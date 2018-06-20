@@ -37,7 +37,9 @@ School of  Chongqing university of posts and telecommunications.
 
 ### 2015.9~2016.6 Chaos circuit simulation design
 
-    The design and Simulation of the circuit for the chaotic equation,and write a paper A Modified Fractional Chaos Circuit Simulation  and Design,fill the domestic gaps in the field,and won the frist price of  National College Students Physics Competition .
+    The design and Simulation of the circuit for the chaotic equation,
+    and write a paper A Modified Fractional Chaos Circuit Simulation  and Design
+    and won the frist price of  National College Students Physics Competition .
 
 ### 2016.8-2017.3 China Unicom website Development
 
