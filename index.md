@@ -1,6 +1,7 @@
 # Zhixiang Wang  
+{% img [img] ./护照照片.jpg [300] [400] [] %}
 
-![](./护照照片.jpg)
+
 
 ## PERSONAL INFORMATION:
 
